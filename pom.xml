@@ -47,7 +47,7 @@
 	</build>
 	
 	<properties>
-	    <dropwizard.version>0.7.0</dropwizard.version>
+	    <dropwizard.version>0.7.1</dropwizard.version>
 	</properties>
 	
 	<dependencies>
